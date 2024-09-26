@@ -1,2 +1,1 @@
-# OOPP-Final-Project
-University 
+University Management System for OOP 
